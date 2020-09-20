@@ -1,0 +1,23 @@
+<p>Employee List!</p>
+<table>
+    <thead>
+        <tr>
+            <th> Имя </th>
+            <th> Фамилия </th>
+            <th> Возраст </th>
+            <th> Пол </th>
+            <th> Департамент </th>
+            <th> Язык программирования </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor = "let employee of employees">
+            <td> {{ employee.name }}</td>
+            <td> {{ employee.surname }}</td>
+            <td> {{ employee.age }}</td>
+            <td> {{ employee.gender }}</td>
+            <td> {{ employee.department }}</td>
+            <td> {{ employee.language }}</td>
+        </tr>
+    </tbody>
+</table>

@@ -26,6 +26,13 @@ namespace ReTask.Artsofte
 
             services.AddSwagger(Configuration);
 
+            services.AddCors(opt => opt.AddPolicy("DevCORSPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));
+
             services.AddApplication(Configuration);
             services.AddPersistence(Configuration);
         }
@@ -37,6 +44,8 @@ namespace ReTask.Artsofte
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors("DevCORSPolicy");
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>

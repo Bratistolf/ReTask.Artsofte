@@ -25,10 +25,10 @@ namespace ReTask.Artsofte.Application.CQRS.Employees.Commands.Add
         public Gender Gender { get; set; }
 
         [JsonPropertyName("department_id")]
-        public int DepartmentId { get; set; }
+        public int? DepartmentId { get; set; }
 
         [JsonPropertyName("language_id")]
-        public int LanguageId { get; set; }
+        public int? LanguageId { get; set; }
 
         public class EmployeeAddCommandHandler : IRequestHandler<EmployeeAddCommand>
         {
