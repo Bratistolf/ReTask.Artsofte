@@ -16,7 +16,7 @@ namespace ReTask.Artsofte.Infrastructure.Persistence.Repositories
             _artsofteDbContext = artsofteDbContext;
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync()
+        public virtual async Task<IEnumerable<T>> GetAllAsync()
         {
             return await _artsofteDbContext.Set<T>().ToListAsync();
         }

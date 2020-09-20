@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ReTask.Artsofte.Application.Common.Interfaces;
+using ReTask.Artsofte.Domain.Entities;
 using ReTask.Artsofte.Infrastructure.Persistence.Repositories;
 
 namespace ReTask.Artsofte.Infrastructure.Persistence
@@ -23,6 +24,7 @@ namespace ReTask.Artsofte.Infrastructure.Persistence
             services.AddScoped<IArtsofteDbContext>(provider => provider.GetService<ArtsofteDbContext>());
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddTransient(typeof(IGenericRepository<Employee>), typeof(EmployeeRepository));
 
             return services;
         }
