@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ReTask.Artsofte.API</name>
+    </assembly>
+    <members>
+        <member name="T:ReTask.Artsofte.API.Controllers.DepartmentsController">
+            <summary>
+            Basic department controller.
+            </summary>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.DepartmentsController.GetAll">
+            <summary>
+            Gets all departments.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.DepartmentsController.GetById(System.Int32)">
+            <summary>
+            Gets a certain department.
+            </summary>
+            <param name="id"> Department's ID. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.DepartmentsController.Add(ReTask.Artsofte.Application.CQRS.Departments.Commands.Add.DepartmentAddCommand)">
+            <summary>
+            
+            </summary>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.DepartmentsController.Edit(System.Int32,ReTask.Artsofte.Application.CQRS.Departments.Commands.Edit.DepartmentEditCommand)">
+            <summary>
+            Edits a certain department.
+            </summary>
+            <param name="id"> Department's ID. </param>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.DepartmentsController.Remove(System.Int32)">
+            <summary>
+            Removes a certain department from the database.
+            </summary>
+            <param name="id"> Department's ID. </param>
+            <returns></returns>
+        </member>
+        <member name="T:ReTask.Artsofte.API.Controllers.EmployeesController">
+            <summary>
+            Basic employees controller.
+            </summary>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.EmployeesController.GetAll">
+            <summary>
+            Gets all employees.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.EmployeesController.GetById(System.Int32)">
+            <summary>
+            Gets a certain employee.
+            </summary>
+            <param name="id"> Employee's ID. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.EmployeesController.Add(ReTask.Artsofte.Application.CQRS.Employees.Commands.Add.EmployeeAddCommand)">
+            <summary>
+            
+            </summary>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.EmployeesController.Edit(System.Int32,ReTask.Artsofte.Application.CQRS.Employees.Commands.Edit.EmployeeEditCommand)">
+            <summary>
+            Edits a certain employee.
+            </summary>
+            <param name="id"> Employee's ID. </param>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Controllers.EmployeesController.Remove(System.Int32)">
+            <summary>
+            Removes a certain employee from the database.
+            </summary>
+            <param name="id"> Employee's ID. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Filters.ApiExceptionFilter.#ctor">
+            <summary>
+            Initializes a new instance of <see cref="T:ReTask.Artsofte.API.Filters.ApiExceptionFilter"/> class.
+            </summary>
+        </member>
+        <member name="M:ReTask.Artsofte.API.Filters.ApiExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            Called after an action has thrown an <see cref="T:System.Exception"/>.
+            </summary>
+            <param name="context">The <see cref="T:Microsoft.AspNetCore.Mvc.Filters.ExceptionContext"/></param>
+        </member>
+        <member name="T:ReTask.Artsofte.Controllers.LanguagesController">
+            <summary>
+            Basic languages controller.
+            </summary>
+        </member>
+        <member name="M:ReTask.Artsofte.Controllers.LanguagesController.GetAll">
+            <summary>
+            Gets all languages.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.Controllers.LanguagesController.GetById(System.Int32)">
+            <summary>
+            Gets a certain language.
+            </summary>
+            <param name="id"> Language's ID. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.Controllers.LanguagesController.Add(ReTask.Artsofte.Application.CQRS.Languages.Commands.Add.LanguageAddCommand)">
+            <summary>
+            
+            </summary>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.Controllers.LanguagesController.Edit(System.Int32,ReTask.Artsofte.Application.CQRS.Languages.Commands.Edit.LanguageEditCommand)">
+            <summary>
+            Edits a certain language.
+            </summary>
+            <param name="id"> Language's ID. </param>
+            <param name="command"> Request body. </param>
+            <returns></returns>
+        </member>
+        <member name="M:ReTask.Artsofte.Controllers.LanguagesController.Delete(System.Int32)">
+            <summary>
+            Removes a certain language from the database.
+            </summary>
+            <param name="id"> Department's ID. </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
