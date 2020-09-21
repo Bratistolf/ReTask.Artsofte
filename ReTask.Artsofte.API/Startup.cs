@@ -6,6 +6,7 @@ using Microsoft.Extensions.Hosting;
 using ReTask.Artsofte.API.Extensions;
 using ReTask.Artsofte.API.Filters;
 using ReTask.Artsofte.Application;
+using ReTask.Artsofte.Application.Common.Interfaces;
 using ReTask.Artsofte.Infrastructure.Persistence;
 
 namespace ReTask.Artsofte
@@ -43,6 +44,14 @@ namespace ReTask.Artsofte
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+            }
+
+            var scopeFactory = app.ApplicationServices.GetRequiredService<IServiceScopeFactory>();
+            using (var scope = scopeFactory.CreateScope())
+            {
+                var dbInitializer = scope.ServiceProvider.GetService<IDbInitializer>();
+                dbInitializer.Initialize(Configuration);
+                dbInitializer.SeedData();
             }
 
             app.UseCors("DevCORSPolicy");

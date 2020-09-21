@@ -24,5 +24,8 @@ namespace ReTask.Artsofte.Application.Common.DTOs
 
         [JsonPropertyName("language")]
         public string Language { get; set; }
+
+        [JsonPropertyName("language_color")]
+        public string LanguageColor { get; set; }
     }
 }

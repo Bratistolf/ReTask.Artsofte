@@ -6,4 +6,5 @@ export class Employee {
     gender: string;
     department: string;
     language: string;
+    language_color: string;
 }

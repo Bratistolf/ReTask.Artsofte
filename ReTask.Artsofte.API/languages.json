@@ -1,0 +1,1706 @@
+[
+  {
+    "Name": "1C Enterprise",
+    "Color": "#814CCC"
+  },
+  {
+    "Name": "4D",
+    "Color": null
+  },
+  {
+    "Name": "ABAP",
+    "Color": "#E8274B"
+  },
+  {
+    "Name": "ActionScript",
+    "Color": "#882B0F"
+  },
+  {
+    "Name": "Ada",
+    "Color": "#02f88c"
+  },
+  {
+    "Name": "Agda",
+    "Color": "#315665"
+  },
+  {
+    "Name": "AGS Script",
+    "Color": "#B9D9FF"
+  },
+  {
+    "Name": "AL Code",
+    "Color": "#3AA2B5"
+  },
+  {
+    "Name": "Alloy",
+    "Color": "#64C800"
+  },
+  {
+    "Name": "Alpine Abuild",
+    "Color": null
+  },
+  {
+    "Name": "AMPL",
+    "Color": "#E6EFBB"
+  },
+  {
+    "Name": "AngelScript",
+    "Color": "#C7D7DC"
+  },
+  {
+    "Name": "ANTLR",
+    "Color": "#9DC3FF"
+  },
+  {
+    "Name": "Apex",
+    "Color": "#1797c0"
+  },
+  {
+    "Name": "API Blueprint",
+    "Color": "#2ACCA8"
+  },
+  {
+    "Name": "APL",
+    "Color": "#5A8164"
+  },
+  {
+    "Name": "Apollo Guidance Computer",
+    "Color": null
+  },
+  {
+    "Name": "AppleScript",
+    "Color": "#101F1F"
+  },
+  {
+    "Name": "Arc",
+    "Color": "#aa2afe"
+  },
+  {
+    "Name": "ASL",
+    "Color": null
+  },
+  {
+    "Name": "ASP.NET",
+    "Color": "#9400ff"
+  },
+  {
+    "Name": "AspectJ",
+    "Color": "#a957b0"
+  },
+  {
+    "Name": "Assembly",
+    "Color": "#6E4C13"
+  },
+  {
+    "Name": "Asymptote",
+    "Color": "#ff0000"
+  },
+  {
+    "Name": "ATS",
+    "Color": "#1ac620"
+  },
+  {
+    "Name": "Augeas",
+    "Color": null
+  },
+  {
+    "Name": "AutoHotkey",
+    "Color": "#6594b9"
+  },
+  {
+    "Name": "AutoIt",
+    "Color": "#1C3552"
+  },
+  {
+    "Name": "Awk",
+    "Color": null
+  },
+  {
+    "Name": "Ballerina",
+    "Color": "#FF5000"
+  },
+  {
+    "Name": "Batchfile",
+    "Color": "#C1F12E"
+  },
+  {
+    "Name": "Befunge",
+    "Color": null
+  },
+  {
+    "Name": "Bison",
+    "Color": null
+  },
+  {
+    "Name": "BitBake",
+    "Color": null
+  },
+  {
+    "Name": "Blade",
+    "Color": "#f7523f"
+  },
+  {
+    "Name": "BlitzBasic",
+    "Color": null
+  },
+  {
+    "Name": "BlitzMax",
+    "Color": "#cd6400"
+  },
+  {
+    "Name": "Bluespec",
+    "Color": null
+  },
+  {
+    "Name": "Boo",
+    "Color": "#d4bec1"
+  },
+  {
+    "Name": "Brainfuck",
+    "Color": "#2F2530"
+  },
+  {
+    "Name": "Brightscript",
+    "Color": null
+  },
+  {
+    "Name": "C",
+    "Color": "#555555"
+  },
+  {
+    "Name": "C#",
+    "Color": "#178600"
+  },
+  {
+    "Name": "C++",
+    "Color": "#f34b7d"
+  },
+  {
+    "Name": "C2hs Haskell",
+    "Color": null
+  },
+  {
+    "Name": "Cap'n Proto",
+    "Color": null
+  },
+  {
+    "Name": "CartoCSS",
+    "Color": null
+  },
+  {
+    "Name": "Ceylon",
+    "Color": "#dfa535"
+  },
+  {
+    "Name": "Chapel",
+    "Color": "#8dc63f"
+  },
+  {
+    "Name": "Charity",
+    "Color": null
+  },
+  {
+    "Name": "ChucK",
+    "Color": null
+  },
+  {
+    "Name": "Cirru",
+    "Color": "#ccccff"
+  },
+  {
+    "Name": "Clarion",
+    "Color": "#db901e"
+  },
+  {
+    "Name": "Classic ASP",
+    "Color": "#6a40fd"
+  },
+  {
+    "Name": "Clean",
+    "Color": "#3F85AF"
+  },
+  {
+    "Name": "Click",
+    "Color": "#E4E6F3"
+  },
+  {
+    "Name": "CLIPS",
+    "Color": null
+  },
+  {
+    "Name": "Clojure",
+    "Color": "#db5855"
+  },
+  {
+    "Name": "CMake",
+    "Color": null
+  },
+  {
+    "Name": "COBOL",
+    "Color": null
+  },
+  {
+    "Name": "CodeQL",
+    "Color": null
+  },
+  {
+    "Name": "CoffeeScript",
+    "Color": "#244776"
+  },
+  {
+    "Name": "ColdFusion",
+    "Color": "#ed2cd6"
+  },
+  {
+    "Name": "ColdFusion CFC",
+    "Color": null
+  },
+  {
+    "Name": "Common Lisp",
+    "Color": "#3fb68b"
+  },
+  {
+    "Name": "Common Workflow Language",
+    "Color": "#B5314C"
+  },
+  {
+    "Name": "Component Pascal",
+    "Color": "#B0CE4E"
+  },
+  {
+    "Name": "Cool",
+    "Color": null
+  },
+  {
+    "Name": "Coq",
+    "Color": null
+  },
+  {
+    "Name": "Crystal",
+    "Color": "#000100"
+  },
+  {
+    "Name": "CSON",
+    "Color": "#244776"
+  },
+  {
+    "Name": "Csound",
+    "Color": null
+  },
+  {
+    "Name": "Csound Document",
+    "Color": null
+  },
+  {
+    "Name": "Csound Score",
+    "Color": null
+  },
+  {
+    "Name": "CSS",
+    "Color": "#563d7c"
+  },
+  {
+    "Name": "Cuda",
+    "Color": "#3A4E3A"
+  },
+  {
+    "Name": "CWeb",
+    "Color": null
+  },
+  {
+    "Name": "Cycript",
+    "Color": null
+  },
+  {
+    "Name": "Cython",
+    "Color": null
+  },
+  {
+    "Name": "D",
+    "Color": "#ba595e"
+  },
+  {
+    "Name": "Dafny",
+    "Color": "#FFEC25"
+  },
+  {
+    "Name": "Dart",
+    "Color": "#00B4AB"
+  },
+  {
+    "Name": "DataWeave",
+    "Color": "#003a52"
+  },
+  {
+    "Name": "Dhall",
+    "Color": "#dfafff"
+  },
+  {
+    "Name": "DIGITAL Command Language",
+    "Color": null
+  },
+  {
+    "Name": "DM",
+    "Color": "#447265"
+  },
+  {
+    "Name": "Dockerfile",
+    "Color": "#384d54"
+  },
+  {
+    "Name": "Dogescript",
+    "Color": "#cca760"
+  },
+  {
+    "Name": "DTrace",
+    "Color": null
+  },
+  {
+    "Name": "Dylan",
+    "Color": "#6c616e"
+  },
+  {
+    "Name": "E",
+    "Color": "#ccce35"
+  },
+  {
+    "Name": "eC",
+    "Color": "#913960"
+  },
+  {
+    "Name": "ECL",
+    "Color": "#8a1267"
+  },
+  {
+    "Name": "ECLiPSe",
+    "Color": null
+  },
+  {
+    "Name": "Eiffel",
+    "Color": "#4d6977"
+  },
+  {
+    "Name": "Elixir",
+    "Color": "#6e4a7e"
+  },
+  {
+    "Name": "Elm",
+    "Color": "#60B5CC"
+  },
+  {
+    "Name": "Emacs Lisp",
+    "Color": "#c065db"
+  },
+  {
+    "Name": "EmberScript",
+    "Color": "#FFF4F3"
+  },
+  {
+    "Name": "EQ",
+    "Color": "#a78649"
+  },
+  {
+    "Name": "Erlang",
+    "Color": "#B83998"
+  },
+  {
+    "Name": "F#",
+    "Color": "#b845fc"
+  },
+  {
+    "Name": "F*",
+    "Color": "#572e30"
+  },
+  {
+    "Name": "Factor",
+    "Color": "#636746"
+  },
+  {
+    "Name": "Fancy",
+    "Color": "#7b9db4"
+  },
+  {
+    "Name": "Fantom",
+    "Color": "#14253c"
+  },
+  {
+    "Name": "Faust",
+    "Color": "#c37240"
+  },
+  {
+    "Name": "Filebench WML",
+    "Color": null
+  },
+  {
+    "Name": "Filterscript",
+    "Color": null
+  },
+  {
+    "Name": "fish",
+    "Color": null
+  },
+  {
+    "Name": "FLUX",
+    "Color": "#88ccff"
+  },
+  {
+    "Name": "Forth",
+    "Color": "#341708"
+  },
+  {
+    "Name": "Fortran",
+    "Color": "#4d41b1"
+  },
+  {
+    "Name": "Fortran Free Form",
+    "Color": null
+  },
+  {
+    "Name": "FreeMarker",
+    "Color": "#0050b2"
+  },
+  {
+    "Name": "Frege",
+    "Color": "#00cafe"
+  },
+  {
+    "Name": "Futhark",
+    "Color": "#5f021f"
+  },
+  {
+    "Name": "G-code",
+    "Color": "#D08CF2"
+  },
+  {
+    "Name": "Game Maker Language",
+    "Color": "#71b417"
+  },
+  {
+    "Name": "GAML",
+    "Color": "#FFC766"
+  },
+  {
+    "Name": "GAMS",
+    "Color": null
+  },
+  {
+    "Name": "GAP",
+    "Color": null
+  },
+  {
+    "Name": "GCC Machine Description",
+    "Color": null
+  },
+  {
+    "Name": "GDB",
+    "Color": null
+  },
+  {
+    "Name": "GDScript",
+    "Color": "#355570"
+  },
+  {
+    "Name": "Genie",
+    "Color": "#fb855d"
+  },
+  {
+    "Name": "Genshi",
+    "Color": null
+  },
+  {
+    "Name": "Gentoo Ebuild",
+    "Color": null
+  },
+  {
+    "Name": "Gentoo Eclass",
+    "Color": null
+  },
+  {
+    "Name": "Gherkin",
+    "Color": "#5B2063"
+  },
+  {
+    "Name": "GLSL",
+    "Color": null
+  },
+  {
+    "Name": "Glyph",
+    "Color": "#c1ac7f"
+  },
+  {
+    "Name": "Gnuplot",
+    "Color": "#f0a9f0"
+  },
+  {
+    "Name": "Go",
+    "Color": "#00ADD8"
+  },
+  {
+    "Name": "Golo",
+    "Color": "#88562A"
+  },
+  {
+    "Name": "Gosu",
+    "Color": "#82937f"
+  },
+  {
+    "Name": "Grace",
+    "Color": null
+  },
+  {
+    "Name": "Grammatical Framework",
+    "Color": "#ff0000"
+  },
+  {
+    "Name": "Groovy",
+    "Color": "#e69f56"
+  },
+  {
+    "Name": "Groovy Server Pages",
+    "Color": null
+  },
+  {
+    "Name": "Hack",
+    "Color": "#878787"
+  },
+  {
+    "Name": "Haml",
+    "Color": "#ece2a9"
+  },
+  {
+    "Name": "Handlebars",
+    "Color": "#f7931e"
+  },
+  {
+    "Name": "Harbour",
+    "Color": "#0e60e3"
+  },
+  {
+    "Name": "Haskell",
+    "Color": "#5e5086"
+  },
+  {
+    "Name": "Haxe",
+    "Color": "#df7900"
+  },
+  {
+    "Name": "HCL",
+    "Color": null
+  },
+  {
+    "Name": "HiveQL",
+    "Color": "#dce200"
+  },
+  {
+    "Name": "HLSL",
+    "Color": null
+  },
+  {
+    "Name": "HolyC",
+    "Color": "#ffefaf"
+  },
+  {
+    "Name": "HTML",
+    "Color": "#e34c26"
+  },
+  {
+    "Name": "Hy",
+    "Color": "#7790B2"
+  },
+  {
+    "Name": "HyPhy",
+    "Color": null
+  },
+  {
+    "Name": "IDL",
+    "Color": "#a3522f"
+  },
+  {
+    "Name": "Idris",
+    "Color": "#b30000"
+  },
+  {
+    "Name": "IGOR Pro",
+    "Color": "#0000cc"
+  },
+  {
+    "Name": "Inform 7",
+    "Color": null
+  },
+  {
+    "Name": "Inno Setup",
+    "Color": null
+  },
+  {
+    "Name": "Io",
+    "Color": "#a9188d"
+  },
+  {
+    "Name": "Ioke",
+    "Color": "#078193"
+  },
+  {
+    "Name": "Isabelle",
+    "Color": "#FEFE00"
+  },
+  {
+    "Name": "Isabelle ROOT",
+    "Color": null
+  },
+  {
+    "Name": "J",
+    "Color": "#9EEDFF"
+  },
+  {
+    "Name": "Jasmin",
+    "Color": null
+  },
+  {
+    "Name": "Java",
+    "Color": "#b07219"
+  },
+  {
+    "Name": "Java Server Pages",
+    "Color": null
+  },
+  {
+    "Name": "JavaScript",
+    "Color": "#f1e05a"
+  },
+  {
+    "Name": "JavaScript+ERB",
+    "Color": null
+  },
+  {
+    "Name": "JFlex",
+    "Color": null
+  },
+  {
+    "Name": "Jison",
+    "Color": null
+  },
+  {
+    "Name": "Jison Lex",
+    "Color": null
+  },
+  {
+    "Name": "Jolie",
+    "Color": "#843179"
+  },
+  {
+    "Name": "JSONiq",
+    "Color": "#40d47e"
+  },
+  {
+    "Name": "Jsonnet",
+    "Color": "#0064bd"
+  },
+  {
+    "Name": "JSX",
+    "Color": null
+  },
+  {
+    "Name": "Julia",
+    "Color": "#a270ba"
+  },
+  {
+    "Name": "Jupyter Notebook",
+    "Color": "#DA5B0B"
+  },
+  {
+    "Name": "Kaitai Struct",
+    "Color": "#773b37"
+  },
+  {
+    "Name": "Kotlin",
+    "Color": "#F18E33"
+  },
+  {
+    "Name": "KRL",
+    "Color": "#28430A"
+  },
+  {
+    "Name": "LabVIEW",
+    "Color": null
+  },
+  {
+    "Name": "Lasso",
+    "Color": "#999999"
+  },
+  {
+    "Name": "Latte",
+    "Color": "#f2a542"
+  },
+  {
+    "Name": "Lean",
+    "Color": null
+  },
+  {
+    "Name": "Less",
+    "Color": "#1d365d"
+  },
+  {
+    "Name": "Lex",
+    "Color": "#DBCA00"
+  },
+  {
+    "Name": "LFE",
+    "Color": "#4C3023"
+  },
+  {
+    "Name": "LilyPond",
+    "Color": null
+  },
+  {
+    "Name": "Limbo",
+    "Color": null
+  },
+  {
+    "Name": "Literate Agda",
+    "Color": null
+  },
+  {
+    "Name": "Literate CoffeeScript",
+    "Color": null
+  },
+  {
+    "Name": "Literate Haskell",
+    "Color": null
+  },
+  {
+    "Name": "LiveScript",
+    "Color": "#499886"
+  },
+  {
+    "Name": "LLVM",
+    "Color": "#185619"
+  },
+  {
+    "Name": "Logos",
+    "Color": null
+  },
+  {
+    "Name": "Logtalk",
+    "Color": null
+  },
+  {
+    "Name": "LOLCODE",
+    "Color": "#cc9900"
+  },
+  {
+    "Name": "LookML",
+    "Color": "#652B81"
+  },
+  {
+    "Name": "LoomScript",
+    "Color": null
+  },
+  {
+    "Name": "LSL",
+    "Color": "#3d9970"
+  },
+  {
+    "Name": "Lua",
+    "Color": "#000080"
+  },
+  {
+    "Name": "M",
+    "Color": null
+  },
+  {
+    "Name": "M4",
+    "Color": null
+  },
+  {
+    "Name": "M4Sugar",
+    "Color": null
+  },
+  {
+    "Name": "Macaulay2",
+    "Color": "#d8ffff"
+  },
+  {
+    "Name": "Makefile",
+    "Color": "#427819"
+  },
+  {
+    "Name": "Mako",
+    "Color": null
+  },
+  {
+    "Name": "Markdown",
+    "Color": "#083fa1"
+  },
+  {
+    "Name": "Marko",
+    "Color": "#42bff2"
+  },
+  {
+    "Name": "Mask",
+    "Color": "#f97732"
+  },
+  {
+    "Name": "Mathematica",
+    "Color": null
+  },
+  {
+    "Name": "MATLAB",
+    "Color": "#e16737"
+  },
+  {
+    "Name": "Max",
+    "Color": "#c4a79c"
+  },
+  {
+    "Name": "MAXScript",
+    "Color": "#00a6a6"
+  },
+  {
+    "Name": "mcfunction",
+    "Color": "#E22837"
+  },
+  {
+    "Name": "Mercury",
+    "Color": "#ff2b2b"
+  },
+  {
+    "Name": "Meson",
+    "Color": "#007800"
+  },
+  {
+    "Name": "Metal",
+    "Color": "#8f14e9"
+  },
+  {
+    "Name": "MiniD",
+    "Color": null
+  },
+  {
+    "Name": "Mirah",
+    "Color": "#c7a938"
+  },
+  {
+    "Name": "mIRC Script",
+    "Color": "#3d57c3"
+  },
+  {
+    "Name": "MLIR",
+    "Color": "#5EC8DB"
+  },
+  {
+    "Name": "Modelica",
+    "Color": null
+  },
+  {
+    "Name": "Modula-2",
+    "Color": null
+  },
+  {
+    "Name": "Modula-3",
+    "Color": "#223388"
+  },
+  {
+    "Name": "Module Management System",
+    "Color": null
+  },
+  {
+    "Name": "Monkey",
+    "Color": null
+  },
+  {
+    "Name": "Moocode",
+    "Color": null
+  },
+  {
+    "Name": "MoonScript",
+    "Color": null
+  },
+  {
+    "Name": "Motorola 68K Assembly",
+    "Color": null
+  },
+  {
+    "Name": "MQL4",
+    "Color": "#62A8D6"
+  },
+  {
+    "Name": "MQL5",
+    "Color": "#4A76B8"
+  },
+  {
+    "Name": "MTML",
+    "Color": "#b7e1f4"
+  },
+  {
+    "Name": "MUF",
+    "Color": null
+  },
+  {
+    "Name": "mupad",
+    "Color": null
+  },
+  {
+    "Name": "Myghty",
+    "Color": null
+  },
+  {
+    "Name": "NASL",
+    "Color": null
+  },
+  {
+    "Name": "NCL",
+    "Color": "#28431f"
+  },
+  {
+    "Name": "Nearley",
+    "Color": "#990000"
+  },
+  {
+    "Name": "Nemerle",
+    "Color": "#3d3c6e"
+  },
+  {
+    "Name": "nesC",
+    "Color": "#94B0C7"
+  },
+  {
+    "Name": "NetLinx",
+    "Color": "#0aa0ff"
+  },
+  {
+    "Name": "NetLinx+ERB",
+    "Color": "#747faa"
+  },
+  {
+    "Name": "NetLogo",
+    "Color": "#ff6375"
+  },
+  {
+    "Name": "NewLisp",
+    "Color": "#87AED7"
+  },
+  {
+    "Name": "Nextflow",
+    "Color": "#3ac486"
+  },
+  {
+    "Name": "Nim",
+    "Color": "#ffc200"
+  },
+  {
+    "Name": "Nit",
+    "Color": "#009917"
+  },
+  {
+    "Name": "Nix",
+    "Color": "#7e7eff"
+  },
+  {
+    "Name": "NSIS",
+    "Color": null
+  },
+  {
+    "Name": "Nu",
+    "Color": "#c9df40"
+  },
+  {
+    "Name": "NumPy",
+    "Color": null
+  },
+  {
+    "Name": "Objective-C",
+    "Color": "#438eff"
+  },
+  {
+    "Name": "Objective-C++",
+    "Color": "#6866fb"
+  },
+  {
+    "Name": "Objective-J",
+    "Color": "#ff0c5a"
+  },
+  {
+    "Name": "ObjectScript",
+    "Color": "#424893"
+  },
+  {
+    "Name": "OCaml",
+    "Color": "#3be133"
+  },
+  {
+    "Name": "Odin",
+    "Color": "#60AFFE"
+  },
+  {
+    "Name": "Omgrofl",
+    "Color": "#cabbff"
+  },
+  {
+    "Name": "ooc",
+    "Color": "#b0b77e"
+  },
+  {
+    "Name": "Opa",
+    "Color": null
+  },
+  {
+    "Name": "Opal",
+    "Color": "#f7ede0"
+  },
+  {
+    "Name": "Open Policy Agent",
+    "Color": null
+  },
+  {
+    "Name": "OpenCL",
+    "Color": null
+  },
+  {
+    "Name": "OpenEdge ABL",
+    "Color": null
+  },
+  {
+    "Name": "OpenQASM",
+    "Color": "#AA70FF"
+  },
+  {
+    "Name": "OpenRC runscript",
+    "Color": null
+  },
+  {
+    "Name": "OpenSCAD",
+    "Color": null
+  },
+  {
+    "Name": "Ox",
+    "Color": null
+  },
+  {
+    "Name": "Oxygene",
+    "Color": "#cdd0e3"
+  },
+  {
+    "Name": "Oz",
+    "Color": "#fab738"
+  },
+  {
+    "Name": "P4",
+    "Color": "#7055b5"
+  },
+  {
+    "Name": "Pan",
+    "Color": "#cc0000"
+  },
+  {
+    "Name": "Papyrus",
+    "Color": "#6600cc"
+  },
+  {
+    "Name": "Parrot",
+    "Color": "#f3ca0a"
+  },
+  {
+    "Name": "Parrot Assembly",
+    "Color": null
+  },
+  {
+    "Name": "Parrot Internal Representation",
+    "Color": null
+  },
+  {
+    "Name": "Pascal",
+    "Color": "#E3F171"
+  },
+  {
+    "Name": "Pawn",
+    "Color": "#dbb284"
+  },
+  {
+    "Name": "Pep8",
+    "Color": "#C76F5B"
+  },
+  {
+    "Name": "Perl",
+    "Color": "#0298c3"
+  },
+  {
+    "Name": "PHP",
+    "Color": "#4F5D95"
+  },
+  {
+    "Name": "PicoLisp",
+    "Color": null
+  },
+  {
+    "Name": "PigLatin",
+    "Color": "#fcd7de"
+  },
+  {
+    "Name": "Pike",
+    "Color": "#005390"
+  },
+  {
+    "Name": "PLpgSQL",
+    "Color": null
+  },
+  {
+    "Name": "PLSQL",
+    "Color": "#dad8d8"
+  },
+  {
+    "Name": "PogoScript",
+    "Color": "#d80074"
+  },
+  {
+    "Name": "Pony",
+    "Color": null
+  },
+  {
+    "Name": "PostScript",
+    "Color": "#da291c"
+  },
+  {
+    "Name": "POV-Ray SDL",
+    "Color": null
+  },
+  {
+    "Name": "PowerBuilder",
+    "Color": "#8f0f8d"
+  },
+  {
+    "Name": "PowerShell",
+    "Color": "#012456"
+  },
+  {
+    "Name": "Prisma",
+    "Color": "#0c344b"
+  },
+  {
+    "Name": "Processing",
+    "Color": "#0096D8"
+  },
+  {
+    "Name": "Prolog",
+    "Color": "#74283c"
+  },
+  {
+    "Name": "Propeller Spin",
+    "Color": "#7fa2a7"
+  },
+  {
+    "Name": "Pug",
+    "Color": "#a86454"
+  },
+  {
+    "Name": "Puppet",
+    "Color": "#302B6D"
+  },
+  {
+    "Name": "PureBasic",
+    "Color": "#5a6986"
+  },
+  {
+    "Name": "PureScript",
+    "Color": "#1D222D"
+  },
+  {
+    "Name": "Python",
+    "Color": "#3572A5"
+  },
+  {
+    "Name": "Python console",
+    "Color": null
+  },
+  {
+    "Name": "q",
+    "Color": "#0040cd"
+  },
+  {
+    "Name": "Q#",
+    "Color": "#fed659"
+  },
+  {
+    "Name": "QMake",
+    "Color": null
+  },
+  {
+    "Name": "QML",
+    "Color": "#44a51c"
+  },
+  {
+    "Name": "Qt Script",
+    "Color": "#00b841"
+  },
+  {
+    "Name": "Quake",
+    "Color": "#882233"
+  },
+  {
+    "Name": "R",
+    "Color": "#198CE7"
+  },
+  {
+    "Name": "Racket",
+    "Color": "#3c5caa"
+  },
+  {
+    "Name": "Ragel",
+    "Color": "#9d5200"
+  },
+  {
+    "Name": "Raku",
+    "Color": "#0000fb"
+  },
+  {
+    "Name": "RAML",
+    "Color": "#77d9fb"
+  },
+  {
+    "Name": "Rascal",
+    "Color": "#fffaa0"
+  },
+  {
+    "Name": "REALbasic",
+    "Color": null
+  },
+  {
+    "Name": "Reason",
+    "Color": "#ff5847"
+  },
+  {
+    "Name": "Rebol",
+    "Color": "#358a5b"
+  },
+  {
+    "Name": "Red",
+    "Color": "#f50000"
+  },
+  {
+    "Name": "Redcode",
+    "Color": null
+  },
+  {
+    "Name": "Ren'Py",
+    "Color": "#ff7f7f"
+  },
+  {
+    "Name": "RenderScript",
+    "Color": null
+  },
+  {
+    "Name": "REXX",
+    "Color": null
+  },
+  {
+    "Name": "Ring",
+    "Color": "#2D54CB"
+  },
+  {
+    "Name": "Riot",
+    "Color": "#A71E49"
+  },
+  {
+    "Name": "RobotFramework",
+    "Color": null
+  },
+  {
+    "Name": "Roff",
+    "Color": "#ecdebe"
+  },
+  {
+    "Name": "Rouge",
+    "Color": "#cc0088"
+  },
+  {
+    "Name": "RPC",
+    "Color": null
+  },
+  {
+    "Name": "Ruby",
+    "Color": "#701516"
+  },
+  {
+    "Name": "RUNOFF",
+    "Color": "#665a4e"
+  },
+  {
+    "Name": "Rust",
+    "Color": "#dea584"
+  },
+  {
+    "Name": "Sage",
+    "Color": null
+  },
+  {
+    "Name": "SaltStack",
+    "Color": "#646464"
+  },
+  {
+    "Name": "SAS",
+    "Color": "#B34936"
+  },
+  {
+    "Name": "Sass",
+    "Color": "#a53b70"
+  },
+  {
+    "Name": "Scala",
+    "Color": "#c22d40"
+  },
+  {
+    "Name": "Scheme",
+    "Color": "#1e4aec"
+  },
+  {
+    "Name": "Scilab",
+    "Color": null
+  },
+  {
+    "Name": "SCSS",
+    "Color": "#c6538c"
+  },
+  {
+    "Name": "sed",
+    "Color": "#64b970"
+  },
+  {
+    "Name": "Self",
+    "Color": "#0579aa"
+  },
+  {
+    "Name": "ShaderLab",
+    "Color": null
+  },
+  {
+    "Name": "Shell",
+    "Color": "#89e051"
+  },
+  {
+    "Name": "ShellSession",
+    "Color": null
+  },
+  {
+    "Name": "Shen",
+    "Color": "#120F14"
+  },
+  {
+    "Name": "Sieve",
+    "Color": null
+  },
+  {
+    "Name": "Slash",
+    "Color": "#007eff"
+  },
+  {
+    "Name": "Slice",
+    "Color": "#003fa2"
+  },
+  {
+    "Name": "Slim",
+    "Color": "#2b2b2b"
+  },
+  {
+    "Name": "Smali",
+    "Color": null
+  },
+  {
+    "Name": "Smalltalk",
+    "Color": "#596706"
+  },
+  {
+    "Name": "Smarty",
+    "Color": null
+  },
+  {
+    "Name": "SmPL",
+    "Color": "#c94949"
+  },
+  {
+    "Name": "SMT",
+    "Color": null
+  },
+  {
+    "Name": "Solidity",
+    "Color": "#AA6746"
+  },
+  {
+    "Name": "SourcePawn",
+    "Color": "#f69e1d"
+  },
+  {
+    "Name": "SQF",
+    "Color": "#3F3F3F"
+  },
+  {
+    "Name": "SQLPL",
+    "Color": null
+  },
+  {
+    "Name": "Squirrel",
+    "Color": "#800000"
+  },
+  {
+    "Name": "SRecode Template",
+    "Color": "#348a34"
+  },
+  {
+    "Name": "Stan",
+    "Color": "#b2011d"
+  },
+  {
+    "Name": "Standard ML",
+    "Color": "#dc566d"
+  },
+  {
+    "Name": "Starlark",
+    "Color": "#76d275"
+  },
+  {
+    "Name": "Stata",
+    "Color": null
+  },
+  {
+    "Name": "Stylus",
+    "Color": "#ff6347"
+  },
+  {
+    "Name": "SuperCollider",
+    "Color": "#46390b"
+  },
+  {
+    "Name": "Svelte",
+    "Color": "#ff3e00"
+  },
+  {
+    "Name": "SVG",
+    "Color": "#ff9900"
+  },
+  {
+    "Name": "Swift",
+    "Color": "#ffac45"
+  },
+  {
+    "Name": "SWIG",
+    "Color": null
+  },
+  {
+    "Name": "SystemVerilog",
+    "Color": "#DAE1C2"
+  },
+  {
+    "Name": "Tcl",
+    "Color": "#e4cc98"
+  },
+  {
+    "Name": "Tcsh",
+    "Color": null
+  },
+  {
+    "Name": "Terra",
+    "Color": "#00004c"
+  },
+  {
+    "Name": "TeX",
+    "Color": "#3D6117"
+  },
+  {
+    "Name": "Thrift",
+    "Color": null
+  },
+  {
+    "Name": "TI Program",
+    "Color": "#A0AA87"
+  },
+  {
+    "Name": "TLA",
+    "Color": null
+  },
+  {
+    "Name": "TSQL",
+    "Color": null
+  },
+  {
+    "Name": "TSX",
+    "Color": null
+  },
+  {
+    "Name": "Turing",
+    "Color": "#cf142b"
+  },
+  {
+    "Name": "Twig",
+    "Color": "#c1d026"
+  },
+  {
+    "Name": "TXL",
+    "Color": null
+  },
+  {
+    "Name": "TypeScript",
+    "Color": "#2b7489"
+  },
+  {
+    "Name": "Unified Parallel C",
+    "Color": null
+  },
+  {
+    "Name": "Unix Assembly",
+    "Color": null
+  },
+  {
+    "Name": "Uno",
+    "Color": "#9933cc"
+  },
+  {
+    "Name": "UnrealScript",
+    "Color": "#a54c4d"
+  },
+  {
+    "Name": "UrWeb",
+    "Color": null
+  },
+  {
+    "Name": "V",
+    "Color": "#4f87c4"
+  },
+  {
+    "Name": "Vala",
+    "Color": "#fbe5cd"
+  },
+  {
+    "Name": "VBA",
+    "Color": "#867db1"
+  },
+  {
+    "Name": "VBScript",
+    "Color": "#15dcdc"
+  },
+  {
+    "Name": "VCL",
+    "Color": "#148AA8"
+  },
+  {
+    "Name": "Verilog",
+    "Color": "#b2b7f8"
+  },
+  {
+    "Name": "VHDL",
+    "Color": "#adb2cb"
+  },
+  {
+    "Name": "Vim script",
+    "Color": "#199f4b"
+  },
+  {
+    "Name": "Visual Basic .NET",
+    "Color": "#945db7"
+  },
+  {
+    "Name": "Volt",
+    "Color": "#1F1F1F"
+  },
+  {
+    "Name": "Vue",
+    "Color": "#2c3e50"
+  },
+  {
+    "Name": "wdl",
+    "Color": "#42f1f4"
+  },
+  {
+    "Name": "WebAssembly",
+    "Color": "#04133b"
+  },
+  {
+    "Name": "WebIDL",
+    "Color": null
+  },
+  {
+    "Name": "wisp",
+    "Color": "#7582D1"
+  },
+  {
+    "Name": "Wollok",
+    "Color": "#a23738"
+  },
+  {
+    "Name": "X10",
+    "Color": "#4B6BEF"
+  },
+  {
+    "Name": "xBase",
+    "Color": "#403a40"
+  },
+  {
+    "Name": "XC",
+    "Color": "#99DA07"
+  },
+  {
+    "Name": "Xojo",
+    "Color": null
+  },
+  {
+    "Name": "XProc",
+    "Color": null
+  },
+  {
+    "Name": "XQuery",
+    "Color": "#5232e7"
+  },
+  {
+    "Name": "XS",
+    "Color": null
+  },
+  {
+    "Name": "XSLT",
+    "Color": "#EB8CEB"
+  },
+  {
+    "Name": "Xtend",
+    "Color": null
+  },
+  {
+    "Name": "Yacc",
+    "Color": "#4B6C4B"
+  },
+  {
+    "Name": "YAML",
+    "Color": "#cb171e"
+  },
+  {
+    "Name": "YARA",
+    "Color": "#220000"
+  },
+  {
+    "Name": "YASnippet",
+    "Color": "#32AB90"
+  },
+  {
+    "Name": "ZAP",
+    "Color": "#0d665e"
+  },
+  {
+    "Name": "Zeek",
+    "Color": null
+  },
+  {
+    "Name": "ZenScript",
+    "Color": "#00BCD1"
+  },
+  {
+    "Name": "Zephir",
+    "Color": "#118f9e"
+  },
+  {
+    "Name": "Zig",
+    "Color": "#ec915c"
+  },
+  {
+    "Name": "ZIL",
+    "Color": "#dc75e5"
+  },
+  {
+    "Name": "Zimpl",
+    "Color": null
+  }
+]

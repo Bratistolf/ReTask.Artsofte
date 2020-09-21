@@ -6,6 +6,7 @@ namespace ReTask.Artsofte.Domain.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Color { get; set; }
         public ICollection<Employee> Employees { get; private set; }
 
         public Language()

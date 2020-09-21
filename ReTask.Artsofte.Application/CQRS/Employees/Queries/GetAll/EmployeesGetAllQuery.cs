@@ -32,7 +32,8 @@ namespace ReTask.Artsofte.Application.CQRS.Employees.Queries.GetAll
                     Age = employee.Age,
                     Gender = employee.Gender == Gender.Male ? "Мужской" : employee.Gender == Gender.Female ? "Женский" : string.Empty,
                     Department = employee.Department?.Name ?? string.Empty,
-                    Language = employee.Language?.Name ?? string.Empty
+                    Language = employee.Language?.Name ?? string.Empty,
+                    LanguageColor = employee.Language?.Color ?? string.Empty
                 });
             }
         }

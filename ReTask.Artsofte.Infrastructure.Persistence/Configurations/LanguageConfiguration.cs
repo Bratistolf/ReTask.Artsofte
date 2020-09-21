@@ -17,6 +17,10 @@ namespace ReTask.Artsofte.Infrastructure.Persistence.Configurations
             builder.Property(lang => lang.Name)
                    .HasColumnName("name")
                    .HasMaxLength(64);
+
+            builder.Property(lang => lang.Color)
+                   .HasColumnName("color")
+                   .HasMaxLength(7);
         }
     }
 }

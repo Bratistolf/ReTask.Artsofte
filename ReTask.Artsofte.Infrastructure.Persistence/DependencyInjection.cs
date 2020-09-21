@@ -15,6 +15,8 @@ namespace ReTask.Artsofte.Infrastructure.Persistence
             {
                 services.AddDbContext<ArtsofteDbContext>(options =>
                     options.UseInMemoryDatabase("MSConnectionString"));
+
+                services.AddScoped<IDbInitializer, DbInitializer>();
             }
             else
             {

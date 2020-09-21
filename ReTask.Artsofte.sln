@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReTask.Artsofte.API", "ReTask.Artsofte.API\ReTask.Artsofte.API.csproj", "{463FCFC8-9995-41E8-A88C-839930F0D24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.API", "ReTask.Artsofte.API\ReTask.Artsofte.API.csproj", "{463FCFC8-9995-41E8-A88C-839930F0D24F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReTask.Artsofte.Domain", "ReTask.Artsofte.Domain\ReTask.Artsofte.Domain.csproj", "{3D72062A-AA95-4093-9D8F-B5ED16E04953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.Domain", "ReTask.Artsofte.Domain\ReTask.Artsofte.Domain.csproj", "{3D72062A-AA95-4093-9D8F-B5ED16E04953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReTask.Artsofte.Application", "ReTask.Artsofte.Application\ReTask.Artsofte.Application.csproj", "{E1DD913D-6FB9-40D9-B90E-404CF77E273C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.Application", "ReTask.Artsofte.Application\ReTask.Artsofte.Application.csproj", "{E1DD913D-6FB9-40D9-B90E-404CF77E273C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReTask.Artsofte.Infrastructure.Persistence", "ReTask.Artsofte.Infrastructure.Persistence\ReTask.Artsofte.Infrastructure.Persistence.csproj", "{1312F5C4-CB40-4A49-B667-446F5B908255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.Infrastructure.Persistence", "ReTask.Artsofte.Infrastructure.Persistence\ReTask.Artsofte.Infrastructure.Persistence.csproj", "{1312F5C4-CB40-4A49-B667-446F5B908255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

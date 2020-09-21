@@ -1,10 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ReTask.Artsofte.Application.Common.Interfaces;
 using ReTask.Artsofte.Domain.Entities;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ReTask.Artsofte.Infrastructure.Persistence.Repositories
@@ -18,15 +16,15 @@ namespace ReTask.Artsofte.Infrastructure.Persistence.Repositories
         public override async Task<IEnumerable<Employee>> GetAllAsync()
         {
             return await _artsofteDbContext.Set<Employee>()
-                .Select(e => new Employee
+                .Select(employee => new Employee
                 {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Surname = e.Surname,
-                    Age = e.Age,
-                    Gender = e.Gender,
-                    Department = e.Department,
-                    Language = e.Language
+                    Id = employee.Id,
+                    Name = employee.Name,
+                    Surname = employee.Surname,
+                    Age = employee.Age,
+                    Gender = employee.Gender,
+                    Department = employee.Department,
+                    Language = employee.Language
                 })
                 .ToListAsync();
         }
