@@ -9,6 +9,7 @@ namespace ReTask.Artsofte.Domain.Entities
         public string Surname { get; set; }
         public byte Age { get; set; }
         public Gender Gender { get; set; }
+        public Post Post { get; set; }
         public int? DepartmentId { get; set; }
         public Department Department { get; set; }
         public int? LanguageId { get; set; }

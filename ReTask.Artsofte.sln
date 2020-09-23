@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.Application
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReTask.Artsofte.Infrastructure.Persistence", "ReTask.Artsofte.Infrastructure.Persistence\ReTask.Artsofte.Infrastructure.Persistence.csproj", "{1312F5C4-CB40-4A49-B667-446F5B908255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReTask.Artsofte.Common", "ReTask.Artsofte.Common\ReTask.Artsofte.Common.csproj", "{A321B59A-BBDA-4408-BDEC-C0CE5C976141}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1312F5C4-CB40-4A49-B667-446F5B908255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1312F5C4-CB40-4A49-B667-446F5B908255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1312F5C4-CB40-4A49-B667-446F5B908255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A321B59A-BBDA-4408-BDEC-C0CE5C976141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A321B59A-BBDA-4408-BDEC-C0CE5C976141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A321B59A-BBDA-4408-BDEC-C0CE5C976141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A321B59A-BBDA-4408-BDEC-C0CE5C976141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

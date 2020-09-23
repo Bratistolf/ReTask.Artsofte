@@ -1,7 +1,16 @@
-﻿namespace ReTask.Artsofte.Domain.Enums
+﻿using ReTask.Artsofte.Common.Attributes;
+
+namespace ReTask.Artsofte.Domain.Enums
 {
-    public enum Gender : byte
+    public enum Gender
     {
-        Empty, Male, Female
+        [StringValue("")]
+        None, 
+
+        [StringValue("Мужской")]
+        Male, 
+
+        [StringValue("Женский")]
+        Female
     }
 }

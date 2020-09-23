@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace ReTask.Artsofte.Application.Common.DTOs
 {
-    public class EmployeeViewDto : BaseDto, IMapFrom<Employee>
+    public class EmployeeListDto : BaseDto, IMapFrom<Employee>
     {
         [JsonPropertyName("name")]
         public string Name { get; set; }
@@ -18,6 +18,9 @@ namespace ReTask.Artsofte.Application.Common.DTOs
 
         [JsonPropertyName("gender")]
         public string Gender { get; set; }
+
+        [JsonPropertyName("post")]
+        public string Post { get; set; }
 
         [JsonPropertyName("department")]
         public string Department { get; set; }

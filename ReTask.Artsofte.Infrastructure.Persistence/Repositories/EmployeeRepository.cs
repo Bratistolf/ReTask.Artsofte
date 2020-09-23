@@ -23,6 +23,7 @@ namespace ReTask.Artsofte.Infrastructure.Persistence.Repositories
                     Surname = employee.Surname,
                     Age = employee.Age,
                     Gender = employee.Gender,
+                    Post = employee.Post,
                     Department = employee.Department,
                     Language = employee.Language
                 })

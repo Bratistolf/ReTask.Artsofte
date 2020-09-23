@@ -25,6 +25,9 @@ namespace ReTask.Artsofte.Infrastructure.Persistence.Configurations
             builder.Property(employee => employee.Gender)
                    .HasColumnName("gender");
 
+            builder.Property(employee => employee.Post)
+                   .HasColumnName("post");
+
             builder.HasOne(employee => employee.Department)
                    .WithMany(department => department.Employees)
                    .HasForeignKey(employee => employee.DepartmentId);
